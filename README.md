@@ -1,6 +1,6 @@
 # Resep Siomay Bandung 
 
-![Nasi Pecel](pecel_image.jpg)
+![Siomay](Ciomay.jpg)
 
 Deskripsi singkat proyek ini adalah tampilan sederhana HTML yang menampilkan resep Siomay Ayam Bandung.
 
@@ -16,7 +16,7 @@ Proyek ini bertujuan untuk memberikan informasi tentang resep dan cara membuat S
 •⁠  ⁠Foto makanan
 
 ## Demo
-![Capture](Capture.jpg)
+![Web](Web_SS.png)
 
 ## Kontribusi
 
